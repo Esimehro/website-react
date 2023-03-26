@@ -1,3 +1,44 @@
+<!-- List five significant features of React -->
+1. ReactJS application is made up of multiple components, and each component has its own logic and controls. These components can be reusable which help you to maintain the code when working on larger scale projects.
+
+2. ReactJS uses JSX file which makes the application simple to code as well as understand.Since ReactJS is a component-based approach which makes the code reusable as your need. This makes it simple to use and learn.
+
+3. React contains a lightweight representation of real DOM in the memory called Virtual DOM. Manipulating real DOM is much slower compared to Virtual DOM as nothing gets drawn on the screen.
+
+4. React supports various extensions for application architecture. It supports server-side rendering, Flux, and Redux extensively in web app development. 
+
+5. Testing React apps is easy due to large community support. Even Facebook provides a small browser extension that makes React debugging easier and faster.
+
+<!-- List five major advantages of React -->
+1. Makes JavaScript coding easier
+
+2.  It enables fast and quality assured application development that in turn saves tIme for both - clients and developers.
+
+3. Excellent cross-platform support.
+
+4. Handles dependencies.
+
+5. It has dedicated tools for easy debugging.
+
+<!-- What is the name of the Software Engineer that created React? Also, which company owns React? -->
+- Jordan Walke
+- Facebook
+
+<!-- What are the notable differences between HTML & JSX? Give at least 3 of them
+ -->
+1. Self-closing tags in JSX must have the forward slash whereas the forward slash is optional in the HTML self-closing tags.
+
+2. In JSX we use className attribute whereas in HTML we use the class attribute. This is because JSX is transpiled into JavaScript and class is a reserved word in JavaScript.
+
+3. Event listeners in JSX are written in camelCase, for instance, onClick whereas in HTML, they are written in lowercase for instance, onclick.
+
+<!-- Why can’t browsers read JSX? -->
+Browsers cannot read JSX because there is no inherent implementation for the browser engines to read and understand it.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
